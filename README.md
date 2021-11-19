@@ -29,7 +29,7 @@
 
 ### Lancer les tests
 
-`$ python -m unittest`
+`$ python -m unittest -v`
 
 ### Vérifier la qualité du code
 
